@@ -4,10 +4,10 @@ import java.awt.event.ActionListener;
 import java.sql.*;
 
 public class Prueba {
-    static final String DB_URL="jdbc:mysql://localhost/PERSONAS";
-    static final String USER="root";
-    static final String PASS="root_bas3";
-    static final String QUERY= "SELECT * FROM REGISTROS";
+    static final String DB_URL = "jdbc:sqlserver://localhost\\PC-PAUL:1433;databaseName=PERSONAS;instance=SQLEXPRESS;encrypt=false;trustServerCertificate=true;";
+    static final String USER = "root";
+    static final String PASS = "root_bas3";
+    static final String QUERY = "SELECT * FROM REGISTROS";
     private JLabel Titulo;
     private JPanel rootPanel;
     private JLabel codigo;
