@@ -59,20 +59,24 @@ Creación de la Base de Datos y Tablas en MySQL
 Creación de la Base de Datos
 
 Se ha creado una base de datos denominada "FARMACIA" para albergar toda la información relacionada con la gestión de la farmacia.
+
 ![image](https://github.com/Paulesh5/PruebaSegundoBimestre_SQL/assets/139184732/1d26c203-f0c5-4763-bb16-ee28d6e2d470)
 Tabla de Administradores
 
 La tabla "ADMINISTRADOR" se ha diseñado para almacenar datos sobre los administradores de la farmacia. Cada administrador se identifica mediante un nombre de usuario único y se almacena su contraseña asociada.
+
 ![image](https://github.com/Paulesh5/PruebaSegundoBimestre_SQL/assets/139184732/74bc15e9-a48e-4d64-a25a-b3aea6ed77e1)
 
 Tabla de Cajeros
 
 La tabla "CAJERO" se utiliza para almacenar información detallada sobre los cajeros de la farmacia, incluyendo su nombre, apellido, cédula de identidad, edad, correo electrónico y contraseña.
+
 ![image](https://github.com/Paulesh5/PruebaSegundoBimestre_SQL/assets/139184732/0bcaa949-01e6-46ab-8dac-efebf4ec10db)
 
 Tabla de Productos
 
 La tabla "PRODUCTOS" almacena datos relacionados con los productos disponibles en la farmacia. Cada producto se identifica mediante un código único, y se registran su nombre, precio por unidad y la cantidad disponible en el stock.
+
 ![image](https://github.com/Paulesh5/PruebaSegundoBimestre_SQL/assets/139184732/07272a3d-ee9b-47f1-a82d-1467e2d6668d)
 
 Funcionalidad
